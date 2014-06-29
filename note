@@ -1,0 +1,42 @@
+TOPO :
+"je me suis demandé comment j'allais présenter les programmes"
+raw list
+A-->Z
+par famille
+par agence (et donc par pays)
+en mots croisés
+
+faire le « tracé » logique de ce qui pourrait se passer
+-> upstream -> xkeyscore -> cryptoenabled, etc <-> quantum -> foxacid, ferretcannon...<->interdiction -> TAO -> TAO (photoanglo,etc) ----------------------> UAV (si tu as la chance d'habiter au yemen)
+
+modéliser à 3 noeuds :
+Assange -> jérémie (LQDN), « arrêté » par le FBI --> Benjamin (LQDN) + boulot + hébergeur WL ? --> .
+        okhin --> spyfiles -> telecomix --> .
+        kheops, touff -> bluecoat, syrie --> telecomix
+
+30c3 --> géoloc GSM --> ioerror, sarah,...)
+
+
+viz' avec d3js, le tout en reveal.js
+
+
+
+
+Exemples :
+- David Petraeus - Former Director of the Central Intelligence Agency
+- la théorie du drone --> recoupement d'infos à distance
+    --> géolocalisation via GSM
+    --> *PAN*
+- tu es sysadmin ? tu es une cible ! https://firstlook.org/theintercept/article/2014/03/12/nsa-plans-infect-millions-computers-malware/
+- tu contrôles la CIA ? pas de problèmes, elle rentre dans tes systèmes pour supprimer les dossiers compromettants
+
+
+
+
+mysql> insert into variable values ('mailname_bounce','roulaxwheezy.emouvance.fr','FQDN of the mail server, used to create vhost virtual mail_adress.');
+
+
+root@roulaxwheezy:/var/alternc/html# mysql alternc -e "insert into variable values ('mailname_bounce','`hostname --fqdn`','FQDN of the mail server, used to create vhost virtual mail_adress.');"
+
+
+
